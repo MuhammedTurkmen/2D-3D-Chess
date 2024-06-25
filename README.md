@@ -22,15 +22,15 @@ A - D : Kamera Döndürme
 
 Oyunu oynamak için -> <a href="https://muhammedturkmen.github.io/2D-3D-Chess/" target="_blank" rel="noopener noreferrer">Buradan!</a>
 
-<img src="Images/2d start.png" alt="Proje Resmi" height="300">
-<img src="Images/3d start.png" alt="Proje Resmi" height="300">
-<img src="Images/2d game 1.png" alt="Proje Resmi" height="300">
-<img src="Images/3d game 2 .png" alt="Proje Resmi" height="300">
-<img src="Images/3d game 3.png" alt="Proje Resmi" height="300">
-<img src="Images/2d game 4.png" alt="Proje Resmi" height="300">
-<img src="Images/2d game 5.png" alt="Proje Resmi" height="300">
-<img src="Images/2d game 6.png" alt="Proje Resmi" height="300">
-<img src="Images/2d game 7.png" alt="Proje Resmi" height="300">
-<img src="Images/2d game 8.png" alt="Proje Resmi" height="300">
-<img src="Images/3d game 9.png" alt="Proje Resmi" height="300">
-<img src="Images/3d game 10.png" alt="Proje Resmi" height="300">
+<img src="docs/Images/2d start.png" alt="Proje Resmi" height="300">
+<img src="docs/Images/3d start.png" alt="Proje Resmi" height="300">
+<img src="docs/Images/2d game 1.png" alt="Proje Resmi" height="300">
+<img src="docs/Images/3d game 2 .png" alt="Proje Resmi" height="300">
+<img src="docs/Images/3d game 3.png" alt="Proje Resmi" height="300">
+<img src="docs/Images/2d game 4.png" alt="Proje Resmi" height="300">
+<img src="docs/Images/2d game 5.png" alt="Proje Resmi" height="300">
+<img src="docs/Images/2d game 6.png" alt="Proje Resmi" height="300">
+<img src="docs/Images/2d game 7.png" alt="Proje Resmi" height="300">
+<img src="docs/Images/2d game 8.png" alt="Proje Resmi" height="300">
+<img src="docs/Images/3d game 9.png" alt="Proje Resmi" height="300">
+<img src="docs/Images/3d game 10.png" alt="Proje Resmi" height="300">
